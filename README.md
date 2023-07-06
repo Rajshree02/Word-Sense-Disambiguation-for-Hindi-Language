@@ -1,3 +1,2 @@
-# NLP_WSD-Hindi
+# Word Sense Disambiguation for Hindi Language
 
-###### Hindi Word Sense Disambiguation
